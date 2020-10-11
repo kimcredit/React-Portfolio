@@ -1,0 +1,11 @@
+/* == Footer == */
+.fixed-bottom {
+    background: rgb(245, 245, 245);;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.logo-links{
+    padding: 0px;
+    margin: 0 auto;
+}
