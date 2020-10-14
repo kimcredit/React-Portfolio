@@ -1,12 +1,13 @@
 import React from 'react';
 import "./style.css";
+import image from './snacktime.png';
 
 function Project02() {
     return (
         <section class="projecttwo position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center container-flex">    
                 <div class="row shrink">
                     <div class="col-md-6 text-center align-self-center">
-                            <img class="snacktime-image" src="images/snacktime.png" alt="Snack time app preview"></img>
+                            <img class="snacktime-image" src= {image} alt="Snack time app preview"></img>
                     </div>
                     <div class= "col-md-6 text-left align-self-center">
                         <div class="project-text">

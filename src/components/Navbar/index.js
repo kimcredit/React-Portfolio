@@ -20,7 +20,7 @@ function Navbar() {
                                 <Link
                                     to="/"
                                     className={
-                                        window.location.pathname === "/" || window.location.pathname === "/home"
+                                        window.location.pathname === "/" || window.location.pathname === "/React-Portfolio"
                                         ? "nav-link active"
                                         : "nav-link"
                                     }

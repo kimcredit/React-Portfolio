@@ -1,12 +1,13 @@
 import React from 'react';
 import "./style.css";
+import example from './project_image.png';
 
 function Project01() {
     return (
         <section class="project position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center container-flex">    
             <div class="row shrink">
                 <div class="col-md-6 text-center align-self-center">
-                        <img class="bcard-image" src="images/project_image.png" alt="birthday card generator example"></img>
+                        <img class="bcard-image" src= {example} alt="birthday card generator example"></img>
                 </div>
                 <div class= "col-md-6 text-left align-self-center">
                     <div class="project-text">

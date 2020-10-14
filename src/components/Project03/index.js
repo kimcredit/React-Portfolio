@@ -1,12 +1,13 @@
 import React from 'react';
 import "./style.css";
+import image from './boredjar.png';
 
 function Project02() {
     return (
         <section class="projectthree position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center container-flex">    
                 <div class="row shrink">
                     <div class="col-md-6 text-center align-self-center">
-                            <img class="boredjar-image" src="images/boredjar.png" alt="Bored Jar App preview"></img>
+                            <img class="boredjar-image" src= {image} alt="Bored Jar App preview"></img>
                     </div>
                     <div class= "col-md-6 text-left align-self-center">
                         <div class="project-text">
