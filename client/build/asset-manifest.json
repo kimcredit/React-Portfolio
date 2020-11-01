@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kcredit-portfolio.git/static/css/main.c29858d1.chunk.css",
+    "main.js": "/kcredit-portfolio.git/static/js/main.49ec6daf.chunk.js",
+    "main.js.map": "/kcredit-portfolio.git/static/js/main.49ec6daf.chunk.js.map",
+    "runtime-main.js": "/kcredit-portfolio.git/static/js/runtime-main.a1b0df51.js",
+    "runtime-main.js.map": "/kcredit-portfolio.git/static/js/runtime-main.a1b0df51.js.map",
+    "static/js/2.4c578057.chunk.js": "/kcredit-portfolio.git/static/js/2.4c578057.chunk.js",
+    "static/js/2.4c578057.chunk.js.map": "/kcredit-portfolio.git/static/js/2.4c578057.chunk.js.map",
+    "index.html": "/kcredit-portfolio.git/index.html",
+    "precache-manifest.0430fb1695675f1c96e7c59a1aab4697.js": "/kcredit-portfolio.git/precache-manifest.0430fb1695675f1c96e7c59a1aab4697.js",
+    "service-worker.js": "/kcredit-portfolio.git/service-worker.js",
+    "static/css/main.c29858d1.chunk.css.map": "/kcredit-portfolio.git/static/css/main.c29858d1.chunk.css.map",
+    "static/js/2.4c578057.chunk.js.LICENSE.txt": "/kcredit-portfolio.git/static/js/2.4c578057.chunk.js.LICENSE.txt",
+    "static/media/boredjar.png": "/kcredit-portfolio.git/static/media/boredjar.391260d5.png",
+    "static/media/project_image.png": "/kcredit-portfolio.git/static/media/project_image.592d8947.png",
+    "static/media/snacktime.png": "/kcredit-portfolio.git/static/media/snacktime.da2a466a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1b0df51.js",
+    "static/js/2.4c578057.chunk.js",
+    "static/css/main.c29858d1.chunk.css",
+    "static/js/main.49ec6daf.chunk.js"
+  ]
+}
