@@ -14,6 +14,9 @@ This MERN application uses [MongoDB](https://www.mongodb.com/), [Mongoose](https
  
 Styling relies on [Bootstrap] (https://getbootstrap.com/).
 
+## Preview Site 
+https://kcredit-portfolio.herokuapp.com/
+
 ## Other Work
 You can see some of my other work at <https://github.com/kimcredit>.    
 
